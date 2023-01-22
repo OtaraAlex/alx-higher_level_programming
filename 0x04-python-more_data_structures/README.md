@@ -34,7 +34,7 @@ Prototypes for functions written in this project:
   the square value of all integers of a matrix.
   * The parameter `matrix` is a two-dimensional array.
   * Returns a matrix of the same size as `matrix` where each value is the
-  square of the input value.
+  square of the input value
   * The initial matrix is not modified.
   * Without importing modules.
 
